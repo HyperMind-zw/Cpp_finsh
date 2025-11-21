@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="个人银行账号管理程序/个人银行账号管理程序.vcxproj" Id="a0de2b15-ea04-49c1-8676-55d32b9556db" />
+</Solution>
